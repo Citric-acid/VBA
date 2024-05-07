@@ -1,8 +1,0 @@
-Traceback (most recent call last):
-  File "c:\Users\YQSL\Desktop\del\cuowu.py", line 15, in <module>
-    result = a / b
-ZeroDivisionError: division by zero
-Traceback (most recent call last):
-  File "c:\Users\YQSL\Desktop\del\cuowu.py", line 15, in <module>
-    result = a / b
-ZeroDivisionError: division by zero
